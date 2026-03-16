@@ -6,10 +6,10 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://limewire.com/d/Wz1k7#Cd0fqZO3Qv'
+        default: 'https://limewire.com/d/71g5j#3aAbXszJrK'
 
 env:
-  RECOVERY_URL: https://limewire.com/d/Wz1k7#Cd0fqZO3Qv
+  RECOVERY_URL: https://limewire.com/d/71g5j#3aAbXszJrK
 
 jobs:
   build:
